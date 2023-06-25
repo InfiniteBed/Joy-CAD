@@ -11,7 +11,7 @@ These models are not perfect, and I welcome contributions from anyone with CAD e
 ## Known Issues
 There are several problems with these models:
 
-- The models have not been completed verified to work, so they may not fit correctly.
+- The models have not been completed tested, so they may not fit correctly.
 - The .STEP file is messy.
 
 ## Work in Progress
